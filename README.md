@@ -8,6 +8,14 @@
 
 ![Victoria Metrics logo](logo.png "Victoria Metrics")
 
+VictoriaMetrics основана на архитектуре ClickHouse, на некоторых деталях реализации ClickHouse. Например, на таких, как: MergeTree, параллельное вычисление на всех доступных ядрах процессора и оптимизация производительности с помощью работы над блоками данных, которые помещаются в кэш процессора.
+
+Go optimisations in VictoriaMetrics / Александр Валялкин, VictoriaMetrics  
+https://www.youtube.com/watch?v=MZ5P21j_HLE&feature=emb_logo
+
+Александр Валялкин. его GitHub аккаунт.   
+https://github.com/valyala  
+
 ## VictoriaMetrics
 
 VictoriaMetrics is fast, cost-effective and scalable time-series database.
